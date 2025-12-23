@@ -35,7 +35,7 @@ The main goals of this project are:
 
 Daily log-returns are computed as:
 
-[r_t = \log\left(\frac{S_t}{S_{t-1}}\right)]
+**rₜ = ln(Sₜ / Sₜ₋₁)**
 
 Descriptive statistics are reported:
 
